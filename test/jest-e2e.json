@@ -1,0 +1,17 @@
+{
+	"moduleFileExtensions": [
+		"js",
+		"json",
+		"ts"
+	],
+	"rootDir": ".",
+	"testEnvironment": "node",
+	"testRegex": ".spec.ts$", //Будем проверять все файлы с тестами а не определённый
+	"transform": {
+		"^.+\\.(t|j)s$": "ts-jest"
+	},
+	"moduleDirectories": [
+		"<rootDir>/../",
+		"node_modules"
+	] //Укажем путь для наших модулей
+}

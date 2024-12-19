@@ -1,0 +1,26 @@
+{
+	"development": {
+		"username": "freedb_sunrise19912812",
+		"password": "Drq7CPWeUv*NmRa",
+		"database": "freedb_shop_nestjs_nextjs",
+		"host": "sql.freedb.tech",
+		"dialect": "mysql",
+		"port": 3306
+	},
+	"test": {
+		"username": "freedb_sunrise19912812",
+		"password": "Drq7CPWeUv*NmRa",
+		"database": "freedb_shop_nestjs_nextjs",
+		"host": "sql.freedb.tech",
+		"dialect": "mysql",
+		"port": 3306
+	},
+	"production": {
+		"username": "freedb_sunrise19912812",
+		"password": "Drq7CPWeUv*NmRa",
+		"database": "freedb_shop_nestjs_nextjs",
+		"host": "sql.freedb.tech",
+		"dialect": "mysql",
+		"port": 3306
+	}
+}
