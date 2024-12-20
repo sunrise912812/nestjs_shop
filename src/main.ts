@@ -18,7 +18,7 @@ async function bootstrap() {
 
 	app.enableCors({
 		credentials: true,
-		origin: ['https://nextjs-shop-wjch.onrender.com/'],
+		origin: ['http://localhost:3001', 'https://nextjs-shop-wjch.onrender.com'],
 	});
 
 	//Сделаем документацию (описание для нашего api)
